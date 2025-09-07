@@ -1,1 +1,2 @@
 # NovaEra
+<html> lang="en"
